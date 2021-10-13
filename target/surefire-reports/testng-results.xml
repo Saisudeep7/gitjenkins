@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="32" started-at="2021-10-13T09:45:20Z" finished-at="2021-10-13T09:45:20Z">
+  <suite name="Suite" duration-ms="32" started-at="2021-10-13T12:23:58Z" finished-at="2021-10-13T12:23:58Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="32" started-at="2021-10-13T09:45:20Z" finished-at="2021-10-13T09:45:20Z">
+    <test name="Test" duration-ms="32" started-at="2021-10-13T12:23:58Z" finished-at="2021-10-13T12:23:58Z">
       <class name="loginTests.AppTest">
-        <test-method status="PASS" signature="invalidLoginTest()[pri:0, instance:loginTests.AppTest@b729e6]" name="invalidLoginTest" duration-ms="9" started-at="2021-10-13T09:45:20Z" description="InValid Test" finished-at="2021-10-13T09:45:20Z">
+        <test-method status="PASS" signature="invalidLoginTest()[pri:0, instance:loginTests.AppTest@b729e6]" name="invalidLoginTest" duration-ms="11" started-at="2021-10-13T12:23:58Z" description="InValid Test" finished-at="2021-10-13T12:23:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidLoginTest -->
-        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:loginTests.AppTest@b729e6]" name="validLoginTest" duration-ms="0" started-at="2021-10-13T09:45:20Z" description="Valid Test" finished-at="2021-10-13T09:45:20Z">
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:loginTests.AppTest@b729e6]" name="validLoginTest" duration-ms="0" started-at="2021-10-13T12:23:58Z" description="Valid Test" finished-at="2021-10-13T12:23:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginTest -->
